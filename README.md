@@ -43,7 +43,9 @@ as a Product Owner, Scrum Business Analyst with an interest in Agile methodologi
 |  Healthcare | B2G | Responsible for integrating the systems of the basic health units with the National Health Data Network, is a national health data interoperability platform                             |
 |  Financial | B2B  |  Responsible for developing and commercializes technological solutions for the payroll loan market. |
 
+## 🌟 Do you wanna know about products? 
 
+- [Learn about product here](https://github.com/jessicaxafranski/learn_about_product) 🤓🧐
 
 
 ## Deploy
