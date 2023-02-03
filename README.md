@@ -5,8 +5,10 @@ I’m a Certified Product Owner (CSPO) with 6 years of experience and a Bachelor
 technologies, solving problems, incrementally improving products and gathering feedback improvements.I’ve been working the past years
 as a Product Owner, Scrum Business Analyst with an interest in Agile methodologies.
 
-* Studyng about new product approaches
-* Pronouns: she/her 
+* Pronouns: she/her 👩‍🦰
+* Studyng about new product approache and data 👀
+
+
 
 
 ## Contact
