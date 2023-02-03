@@ -35,11 +35,11 @@ as a Product Owner, Scrum Business Analyst with an interest in Agile methodologi
 
  
 
- Product | Description                                                                                                                                               |
-| :--: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Marketplace  |   Responsible for  improving and enriching the seller experience throughout their journey within the platform (e.g. managing their orders, tracking orders, search for previous orders, onboarding)                           |
-|  Healthcare   | Responsible for integrating the systems of the basic health units with the National Health Data Network, is a national health data interoperability platform                             |
-|  Financial    |  Responsible for developing and commercializes technological solutions for the payroll loan market. |
+| Product | Business | Description|
+| :--: | :-------------: | :---: |
+|  Marketplace | B2B2C |  Responsible for  improving and enriching the seller experience throughout their journey within the platform (e.g. managing their orders, tracking orders, search for previous orders, onboarding)|
+|  Healthcare | B2G | Responsible for integrating the systems of the basic health units with the National Health Data Network, is a national health data interoperability platform                             |
+|  Financial | B2B  |  Responsible for developing and commercializes technological solutions for the payroll loan market. |
 
 
 
