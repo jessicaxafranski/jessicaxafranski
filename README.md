@@ -31,7 +31,14 @@ as a Product Owner, Scrum Business Analyst with an interest in Agile methodologi
 <a href = "mailto:jessicaxafranski@gmail.com"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"></a>
 <div> 
 
+## Learn about product
+
+
+
 ## Deploy
+
+
+
 
 <div align="center">
   <a href="https://github.com/jessicaxafranski">
