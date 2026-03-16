@@ -12,9 +12,9 @@ as a Product Owner, and Scrum Business Analyst interested in Agile methodologies
 
 - [Learn about product here](https://github.com/jessicaxafranski/learn_about_product) 🤓🧐
 
-## Product Case
+## Product Case Study
 
-- [Learn about product here](https://github.com/jessicaxafranski/AI-PRODUCT-CASE)
+- [AI - Product Case](https://github.com/jessicaxafranski/AI-PRODUCT-CASE)
 
 
 ## Contact
