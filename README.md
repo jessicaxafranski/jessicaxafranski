@@ -16,7 +16,7 @@ as a Product Owner, and Scrum Business Analyst interested in Agile methodologies
 
 - [AI - Product Case](https://github.com/jessicaxafranski/AI-PRODUCT-CASE)
 - [AI - Intent Signals](https://github.com/jessicaxafranski/case-intent-signals-enginy)
-- [AI - PM OS](https://github.com/jessicaxafranski/ai-coffee-personality-quizz)
+- [AI - Coffe Personalinaty Quizz](https://github.com/jessicaxafranski/ai-coffee-personality-quizz)
 
 
 ## Worflows - AI
