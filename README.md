@@ -1,7 +1,7 @@
 ## Hi Guys, I'm Jessica Xafranski ✌👩‍🦰
 
 
-I’m a Certified Product Owner (CSPO) with 7 years of experience and a Bachelor’s Degree in Information Systems, fascinated with new
+I’m a Certified Product Owner (CSPO) with 8 years of experience and a Bachelor’s Degree in Information Systems, fascinated with new
 technologies, solving problems, incrementally improving products, and gathering feedback improvements. I’ve been working for years
 as a Product Owner, and Scrum Business Analyst interested in Agile methodologies.
 
