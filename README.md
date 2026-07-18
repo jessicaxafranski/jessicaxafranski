@@ -22,6 +22,7 @@ as a Product Owner, and Scrum Business Analyst interested in Agile methodologies
 ## Worflows - AI
 
 - [MCP - KNOWLEDGE PM ](https://github.com/jessicaxafranski/mcp-pm-knowledge-base)
+- [PM WORKFLOW](https://github.com/jessicaxafranski/jess-pm-os)
 
 ## Contact
 
